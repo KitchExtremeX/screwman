@@ -1,0 +1,1 @@
+{"name":"screwman-rise-of-the-rogue-machines","version":"1.0.0","private":true,"scripts":{"start":"node serve.cjs","test":"node tests.cjs"}}
