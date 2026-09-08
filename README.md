@@ -10,7 +10,7 @@ The existing 14 system checks still pass after the conversion. Browser verificat
 
 ## Run
 
-Open `index.html` in a desktop browser; no installation is required. Alternatively run `npm start` from this folder, then visit http://127.0.0.1:4188. The server binds only to localhost. Run `npm test` for the automated checks. A keyboard is required; touch and gamepads are not implemented.
+Open `index.html` in a desktop browser; no installation is required. Alternatively run `npm start` from this folder, then The server binds only to localhost. Run `npm test` for the automated checks. A keyboard is required; touch and gamepads are not implemented.
 
 ## Mission and systems
 
